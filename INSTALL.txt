@@ -1,0 +1,6 @@
+QMplot uses standard qmake project file, so instructions are standard:
+
+ $ qmake -o Makefile qmplot.pro
+ $ make
+
+The executable is created in bin/qmplot and other build files go into build/.

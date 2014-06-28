@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>img/filenew.png</file>
+    <file>img/fileopen.png</file>
+    <file>img/filesave.png</file>
+    <file>img/filesaveas.png</file>
+    <file>img/exit.png</file>
+    <file>img/preferences.png</file>
+    <file>img/help.png</file>
+    <file>img/qt4-logo.png</file>
+    <file>tr/qmplot_pl.qm</file>
+    <file>img/critical.png</file>
+    <file>img/ok.png</file>
+  </qresource>
+</RCC>
